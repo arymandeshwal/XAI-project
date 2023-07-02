@@ -18,7 +18,7 @@ pip install git+https://github.com/pyg-team/pytorch_geometric.git
 ```bash
 pip install -r requirements.txt
 ```
-In Case of any ERROR or the code is NOT EXECUTABLE. Please refer to [Link-1](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html) | [Link-2](https://colab.research.google.com/drive/19gCLvZi77ih5hTSAjUbHISmX-I9fi12m?usp=sharing)
+If you encounter any "ERROR" or the code is "NOT EXECUTABLE". Please refer to this [Link-](https://colab.research.google.com/drive/19gCLvZi77ih5hTSAjUbHISmX-I9fi12m?usp=sharing)
 
 ## Data Description
 If you install the project manually, you do not need to download the dataset 
