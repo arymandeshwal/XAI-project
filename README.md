@@ -1,6 +1,6 @@
 # EXPLAINABILITY FRAMEWORK FOR MOVIELENS GRAPH
 
-[Project Overview](#project-overview) | [Installation](#installation) | [Data Description](#data-description) |  [Model Architecture](#model-architecture) | [Explainability Techniques](#explainability-techniques) | [Contribution](#contribution)
+[Project Overview](#project-overview) | [Installation](#installation) | [Execution](#execution) | [Data Description](#data-description) |  [Model Architecture](#model-architecture) | [Explainability Techniques](#explainability-techniques) | [Contribution](#contribution)
 
 ## Project Overview
 
@@ -18,7 +18,12 @@ pip install git+https://github.com/pyg-team/pytorch_geometric.git
 ```bash
 pip install -r requirements.txt
 ```
-If you encounter any "ERROR" or the code is "NOT EXECUTABLE". Please refer to this [Link-](https://colab.research.google.com/drive/19gCLvZi77ih5hTSAjUbHISmX-I9fi12m?usp=sharing)
+If you encounter any **ERROR** or the code is **NOT EXECUTABLE**. Please refer to this [Link](https://colab.research.google.com/drive/19gCLvZi77ih5hTSAjUbHISmX-I9fi12m?usp=sharing)
+
+## Execution 
+For execution of the project 
+1. First execute : **Main.ipynb**
+2. Secondly, execute : **Tabular form.ipynb**
 
 ## Data Description
 If you install the project manually, you do not need to download the dataset 
