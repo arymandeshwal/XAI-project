@@ -1,6 +1,6 @@
 # EXPLAINABILITY FRAMEWORK FOR MOVIELENS GRAPH
 
-[Installation](#installation) [Datasets](#datasets) | [Models](#models) |  [PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)  | [DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)   | [Benchmark](https://paperswithcode.com/dataset/upfd) | [Intro Video](https://youtu.be/QAIVFr24FrA) | [How to Contribute](#how-to-contribute)
+[Installation](#installation) | [Datasets](#datasets) | [Models](#models) |  [PyG Example](https://github.com/rusty1s/pytorch_geometric/blob/master/examples/upfd.py)  | [DGL Example](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fakenews.py)   | [Benchmark](https://paperswithcode.com/dataset/upfd) | [Intro Video](https://youtu.be/QAIVFr24FrA) | [How to Contribute](#how-to-contribute)
 
 This project focuses on enhancing the explainability of Graph Neural Networks (GNNs) in the context of link prediction using a heterogeneous graph. GNNs have proven effective in various applications, including link prediction tasks. The objective of this study is to develop an interpretable GNN model that provides explanations for individual edges in the graph.
 
