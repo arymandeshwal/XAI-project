@@ -14,7 +14,10 @@ This project focuses on enhancing the explainability of Graph Neural Networks (G
 pip install git+https://github.com/pyg-team/pytorch_geometric.git
 ```
 3. [Install Pytorch_geometric](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
-
+4. Install rest from requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ## Data Description
 We are using MovieLens dataset consisted of movie ratings, which we represented as a heterogeneous graph. It includes diverse information, including movie ratings, user profiles, genre details, and movie metadata.
