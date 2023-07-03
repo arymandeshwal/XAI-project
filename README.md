@@ -8,13 +8,13 @@ This project focuses on enhancing the explainability of Graph Neural Networks (G
 
 ## Installation
 
-1. [Install Pytorch](https://pytorch.org/get-started/locally/) 
-2. Install Pytorch_geometric from master branch
+1.First : [Install Pytorch](https://pytorch.org/get-started/locally/) 
+2.Second: Install Pytorch_geometric from master branch
 ```bash
 pip install git+https://github.com/pyg-team/pytorch_geometric.git
 ```
-3. [Install Pytorch_geometric](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
-4. Install Python dependencies from the requirements.txt file.
+3.Third: [Install Pytorch_geometric](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
+4.Fourth: Install Python dependencies from the requirements.txt file.
 ```bash
 pip install -r requirements.txt
 ```
