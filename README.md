@@ -20,8 +20,7 @@ pip install git+https://github.com/pyg-team/pytorch_geometric.git
 ```bash
 pip install -r requirements.txt
 ```
-If you encounter any **ERROR** or the code is **NOT EXECUTABLE**. Please refer to this [Link](https://colab.research.google.com/drive/19gCLvZi77ih5hTSAjUbHISmX-I9fi12m?usp=sharing)
-
+If you encounter any **ERROR** or the code is **NOT EXECUTABLE**. Please refer to this[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19gCLvZi77ih5hTSAjUbHISmX-I9fi12m?usp=sharing)
 ## Execution 
 For execution of the project 
 1. First execute : **Main.ipynb**
