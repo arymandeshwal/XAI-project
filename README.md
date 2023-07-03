@@ -51,7 +51,7 @@ This architecture enhances the interpretability and transparency of the GNN mode
 
 ## Explainability Techniques
 
-n order to enhance the explainability of the Graph Neural Network (GNN) model for link prediction, two techniques were employed: GNN explainer and surrogate modeling with Random Forest. The GNN explainer technique attributed importance scores to nodes and edges, providing insights into the decision-making process of the GNN model at an individual edge level. This technique helped identify influential features and their relationships within the graph. Additionally, a surrogate model using Random Forest was employed to validate and compare the explanations provided by the GNN explainer. The combination of these techniques facilitated a comprehensive understanding of the factors driving the predictions of the GNN model, enhancing its interpretability and transparency.
+In order to enhance the explainability of the Graph Neural Network (GNN) model for link prediction, two techniques were employed: GNN explainer and surrogate modeling with Random Forest. The GNN explainer technique attributed importance scores to nodes and edges, providing insights into the decision-making process of the GNN model at an individual edge level. This technique helped identify influential features and their relationships within the graph. Additionally, a surrogate model using Random Forest was employed to validate and compare the explanations provided by the GNN explainer. The combination of these techniques facilitated a comprehensive understanding of the factors driving the predictions of the GNN model, enhancing its interpretability and transparency.
 
 ## Contribution
 
