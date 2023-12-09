@@ -1,5 +1,6 @@
 sphinx
 sphinx-rtd-theme
+ghp-import
 torch
 pandas
 matplotlib
